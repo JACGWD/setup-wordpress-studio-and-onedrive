@@ -3,7 +3,7 @@
 
 ## Setup OneDrive at School
 
-![WordPress Studio setup](./img/studio-setup-2.png)
+See the [detailed instructions from Microsoft here](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-on-macos-d11b9f29-00bb-4172-be39-997da46f913f).
 
 1. Login to the OneDrive **desktop application** with your school credentials
 2. Complete the setup process
@@ -12,6 +12,8 @@
 ## Initial Setup of Wordpress Studio
 
 WordPress Studio is by far the easiest way to run Wordpress on your desktop. However, it was not designed to support syncing between different machines (ie school and at home). This is why we use OneDrive. So all the default settings are fine *except for the location of the folder which must be in OneDrive*.
+
+![WordPress Studio setup](./img/studio-setup-2.png)
 
 1. If at home: [download WordPress Studio](https://developer.wordpress.com/studio/)
 2. Open WordPress Studio
